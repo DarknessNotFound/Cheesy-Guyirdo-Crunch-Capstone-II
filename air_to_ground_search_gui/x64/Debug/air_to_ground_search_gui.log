@@ -1,0 +1,11 @@
+﻿  main.cpp
+  imgui_impl_dx9.cpp
+F:\repos\air_to_ground_search_gui\Cheesy-Guyirdo-Crunch-Capstone-II\air_to_ground_search_gui\src\main.cpp(86,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  air_to_ground_search_gui.vcxproj -> F:\repos\air_to_ground_search_gui\Cheesy-Guyirdo-Crunch-Capstone-II\x64\Debug\air_to_ground_search_gui.exe
